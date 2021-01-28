@@ -1,0 +1,1003 @@
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+TypeError: Cannot use 'in' operator to search for 'text' in undefined
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:54:28)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at reply (/data/data/com.termux/files/home/ninem/index.js:299:12)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:1729:36)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+TypeError: Cannot use 'in' operator to search for 'text' in undefined
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:54:28)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at reply (/data/data/com.termux/files/home/ninem/index.js:299:12)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:1357:34)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+TypeError: Cannot use 'in' operator to search for 'text' in undefined
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:54:28)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at reply (/data/data/com.termux/files/home/ninem/index.js:299:12)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:1969:6)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+TypeError: Cannot use 'in' operator to search for 'text' in undefined
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:54:28)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at reply (/data/data/com.termux/files/home/ninem/index.js:299:12)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:1969:6)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+BaileysError: Not expecting a response
+    at onErr (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:192:56)
+    at /data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:187:82
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:274:21)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7) {
+  status: 422,
+  context: { status: 422 }
+}
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+TypeError: Cannot use 'in' operator to search for 'text' in undefined
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:54:28)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at reply (/data/data/com.termux/files/home/ninem/index.js:299:12)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:1347:34)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+[Error: ENOENT: no such file or directory, open '/data/data/com.termux/files/usr/tmp/imageMessage3EB052C1467D'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/data/data/com.termux/files/usr/tmp/imageMessage3EB052C1467D',
+  methodName: 'constructor'
+}
+- Connecting...
+- Connected
+TypeError: Cannot read property 'key' of undefined
+    at Object.WA_MESSAGE_ID (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:62:55)
+    at /data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:72:43
+    at Array.forEach (<anonymous>)
+    at Object.newMessagesDB (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:72:14)
+    at /data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:194:53
+    at Array.map (<anonymous>)
+    at messagesUpdate (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:186:72)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:203:49)
+    at WAConnection.emit (events.js:315:20)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at /data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:176:37
+    at Array.forEach (<anonymous>)
+    at WAConnection.onMessageRecieved (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:174:29)
+    at WebSocket.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:101:50)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (/data/data/com.termux/files/home/ninem/node_modules/ws/lib/websocket.js:825:20)
+    at Receiver.emit (events.js:315:20)
+    at Receiver.dataMessage (/data/data/com.termux/files/home/ninem/node_modules/ws/lib/receiver.js:428:14)
+    at Receiver.getData (/data/data/com.termux/files/home/ninem/node_modules/ws/lib/receiver.js:367:17)
+    at Receiver.startLoop (/data/data/com.termux/files/home/ninem/node_modules/ws/lib/receiver.js:143:22)
+    at Receiver._write (/data/data/com.termux/files/home/ninem/node_modules/ws/lib/receiver.js:78:10)
+    at writeOrBuffer (internal/streams/writable.js:358:12)
+- Connecting...
+- Connected
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: Could not find MIME for Buffer <null>
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:187:15)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+TypeError: Cannot use 'in' operator to search for 'text' in undefined
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:54:28)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:869:13)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: Cannot read property 'url' of undefined
+    at Object.getStream (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:312:14)
+    at Object.encryptedStream (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:361:44)
+    at WAConnection.prepareMessageMedia (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:119:106)
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:81:32)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:1468:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+TypeError: Cannot read property 'url' of undefined
+    at Object.getStream (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:312:14)
+    at Object.encryptedStream (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:361:44)
+    at WAConnection.prepareMessageMedia (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:119:106)
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:81:32)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:665:13)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+- Connecting...
+- Connected
+TypeError: Cannot use 'in' operator to search for 'text' in undefined
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:54:28)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:869:13)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Media upload failed on all hosts
+    at WAConnection.prepareMessageMedia (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:159:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:81:21)
+    at async WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:25)
+    at async WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:27)
+Error: Invalid block size
+    at new GifReader (/data/data/com.termux/files/home/ninem/node_modules/omggif/omggif.js:489:41)
+    at Object.image/gif (/data/data/com.termux/files/home/ninem/node_modules/@jimp/gif/dist/index.js:25:20)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: Invalid block size
+    at new GifReader (/data/data/com.termux/files/home/ninem/node_modules/omggif/omggif.js:489:41)
+    at Object.image/gif (/data/data/com.termux/files/home/ninem/node_modules/@jimp/gif/dist/index.js:25:20)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+TypeError: Cannot read property 'url' of undefined
+    at Object.getStream (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:312:14)
+    at Object.encryptedStream (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:361:44)
+    at WAConnection.prepareMessageMedia (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:119:106)
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:81:32)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:1280:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: Cannot read property 'url' of undefined
+    at Object.getStream (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:312:14)
+    at Object.encryptedStream (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:361:44)
+    at WAConnection.prepareMessageMedia (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:119:106)
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:81:32)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:1280:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+TypeError: Cannot read property 'url' of undefined
+    at Object.getStream (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:312:14)
+    at Object.encryptedStream (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:361:44)
+    at WAConnection.prepareMessageMedia (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:119:106)
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:81:32)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:1281:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+- Connecting...
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+Error: ENOENT: no such file or directory, open '894.webp'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at FfmpegCommand.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:1202:19)
+    at FfmpegCommand.emit (events.js:315:20)
+    at emitEnd (/data/data/com.termux/files/home/ninem/node_modules/fluent-ffmpeg/lib/processor.js:426:16)
+    at endCB (/data/data/com.termux/files/home/ninem/node_modules/fluent-ffmpeg/lib/processor.js:587:15)
+    at handleExit (/data/data/com.termux/files/home/ninem/node_modules/fluent-ffmpeg/lib/processor.js:170:11)
+    at Socket.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/fluent-ffmpeg/lib/processor.js:197:11)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '894.webp'
+}
+- Connecting...
+- Connected
+TypeError: Cannot read property 'url' of undefined
+    at Object.getStream (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:312:14)
+    at Object.encryptedStream (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:361:44)
+    at WAConnection.prepareMessageMedia (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:119:106)
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:81:32)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:1476:13)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: Cannot use 'in' operator to search for 'text' in undefined
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:54:28)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at reply (/data/data/com.termux/files/home/ninem/index.js:299:12)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:1347:34)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Could not find MIME for Buffer <null>
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:187:15)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+- Connecting...
+- Connected
+TypeError: Cannot use 'in' operator to search for 'text' in undefined
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:54:28)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:869:13)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: jid.replace is not a function
+    at Object.whatsappID (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:66:75)
+    at WAConnection.prepareMessageFromContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:184:22)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:31:38)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:27)
+BaileysError: Not expecting a response
+    at onErr (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:192:56)
+    at /data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:187:82
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:274:21)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7) {
+  status: 422,
+  context: { status: 422 }
+}
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+Error: marker was not found
+    at decodeScan (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:344:15)
+    at constructor.parse (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:804:29)
+    at Object.decode [as image/jpeg] (/data/data/com.termux/files/home/ninem/node_modules/jpeg-js/lib/decoder.js:1096:11)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/utils/image-bitmap.js:196:53)
+    at Jimp.parseBitmap (/data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:431:32)
+    at /data/data/com.termux/files/home/ninem/node_modules/@jimp/core/dist/index.js:373:15
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:63:3) {
+  methodName: 'constructor'
+}
+TypeError: Cannot read property 'url' of undefined
+    at Object.getStream (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:312:14)
+    at Object.encryptedStream (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:361:44)
+    at WAConnection.prepareMessageMedia (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:119:106)
+    at WAConnection.prepareMessageContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:81:32)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:36)
+    at WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:38)
+    at WAConnection.<anonymous> (/data/data/com.termux/files/home/ninem/index.js:1476:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+- Connecting...
+- Connected
+TypeError: jid.replace is not a function
+    at Object.whatsappID (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:66:75)
+    at WAConnection.prepareMessageFromContent (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:184:22)
+    at WAConnection.prepareMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:31:38)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async WAConnection.sendMessage (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:27)
+- Connecting...
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: close
+    at WebSocket.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:118:51)
+    at WebSocket.emit (events.js:315:20)
+    at WebSocket.emitClose (/data/data/com.termux/files/home/ninem/node_modules/ws/lib/websocket.js:198:10)
+    at Receiver.receiverOnFinish (/data/data/com.termux/files/home/ninem/node_modules/ws/lib/websocket.js:815:20)
+    at Receiver.emit (events.js:315:20)
+    at finish (internal/streams/writable.js:657:10)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+- Connecting...
+Error: lost
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at WAConnection.unexpectedDisconnect (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:115:18)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:200:22)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: getaddrinfo ENOTFOUND web.whatsapp.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  errno: -3007,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'web.whatsapp.com'
+}
+- Connecting...
+Error: getaddrinfo ENOTFOUND web.whatsapp.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  errno: -3007,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'web.whatsapp.com'
+}
+- Connecting...
+Error: read ECONNABORTED
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:209:20) {
+  errno: -103,
+  code: 'ECONNABORTED',
+  syscall: 'read'
+}
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: getaddrinfo ENOTFOUND web.whatsapp.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+  errno: -3007,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'web.whatsapp.com'
+}
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
+Error: timed out
+    at WAConnection.rejectAllOnWSClose (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/3.Connect.js:79:62)
+    at WAConnection.emit (events.js:327:22)
+    at WAConnection.emit (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/4.Events.js:614:41)
+    at WAConnection.endConnection (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:425:14)
+    at Timeout.<anonymous> (/data/data/com.termux/files/home/ninem/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js:339:54)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+- Connecting...
